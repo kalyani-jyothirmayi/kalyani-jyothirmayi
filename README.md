@@ -20,6 +20,8 @@ I am Kalyani, a passionate individual who transitioned from a career as a Math T
 - **Machine Learning and AI:**
   - List specific skills you've acquired, such as Python programming, SQL,
  data analysis, machine learning frameworks (TensorFlow, PyTorch),Power BI
+ Machine Learning, Data Modeling, Data Visualization, Data Analysis, Deep Learning, Storytelling via Dashboards,Statistical Methods, Predictive Models, Data Integration, 
+ Exploratory Data Analysis, Data Quality, Key Performance Indicators
 
 ## Projects
 ### Project 1:Walmart Sales Forecasting 
